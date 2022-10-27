@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElevenNoteIdentity
+build_property.RootNamespace = ElevenNoteIdentity
+build_property.ProjectDir = C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNoteIdentity\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNoteIdentity
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Note/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Note/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Note/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Note/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Note/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Shared/DisplayTemplates/DateTimeOffset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcRGF0ZVRpbWVPZmZzZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ElevenFiftyProjects/ElevenNoteidentity/ElevenNoteIdentity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7oka8b3x2y

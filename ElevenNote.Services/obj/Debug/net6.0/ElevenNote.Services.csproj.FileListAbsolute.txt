@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Services.deps.json
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.AssemblyInfo.cs
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\refint\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ref\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\bin\Debug\net6.0\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\ElevenNoteidentity\ElevenNote.Services\obj\Debug\net6.0\ElevenNote.Services.csproj.CopyComplete
